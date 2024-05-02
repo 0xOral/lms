@@ -1,4 +1,5 @@
 admin
 node_modules
-package-loack.json
+package-lock.json
 admin
+*.sql
